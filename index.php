@@ -16,7 +16,7 @@
   <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <font face="TIMES NEW ROMAN" <size="8" color="#228B22" <u><b><i>HOMEPAGE</i></b></font> 
   <h3 align="center" <h1> <font face="broadway" color="#228B22" size="12"> <u><b> Fight For Future </b></u> </font></h3>
-  <font face="broadway" color="#228B22" size="12"> <h3 align="center"> <font face="broadway" color="#228B22" size="5"> TODAY VS. TOMMOROW </font> <p align="center"> <img src="Heroes.jpeg" alt="" width="700" length="500"> </p> <br><br><br> <p align="center"> 
+  <font face="broadway" color="#228B22" size="12"> <h3 align="center"> <font face="broadway" color="#228B22" size="5"> TODAY VS. TOMMOROW </font> <p align="center"> <img src="120560213_336805987578720_8788332043839710527_n.jpg" alt="" width="700" length="500"> </p> <br><br><br> <p align="center"> 
      <marquee behavior="scroll" direction="left" scrolldelay="800" scrollamount="100"> 
       <font face="broadway" color="Yellow" size="8"> <u>Warning!!!</u> </font> 
      </marquee> 
