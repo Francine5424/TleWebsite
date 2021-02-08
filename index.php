@@ -6,7 +6,7 @@
  <body> 
   <style>
    body {background-image:
-     url(background.jpeg);
+    120560213_336805987578720_8788332043839710527_n.jpg(background.jpeg);
      background-repeat:
      no-repeat;
       background-attachment: fixed;
